@@ -8,6 +8,8 @@ const Navbar = () => {
         <div className=' flex gap-10 px-10'>
             <Link href='/'>Home</Link>
             <Link href='/menu'>Menu</Link>
+            <Link href='/courses'>Courses</Link>
+            <Link href='/product'>Product</Link>
             <Link href='/about'>About</Link>
             <Link href='/contact'>Contact</Link>
             <Link href='/service'>Service</Link>
